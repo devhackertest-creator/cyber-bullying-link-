@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Cyber Bullying Detection Project",
+  "description": "A real-time, frontend-only cyber bullying detection system using weighted word analysis and Instagram-style interactions.",
+  "requestFramePermissions": []
+}
